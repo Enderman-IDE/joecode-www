@@ -12,6 +12,8 @@ p {
     width: 100%;
     height: 50px;
     line-height: 40px; /* pain */
+    margin: 0; /* grr */
+    padding: 0; 
 }
 
 .heading {
