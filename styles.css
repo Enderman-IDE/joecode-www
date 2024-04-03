@@ -1,4 +1,8 @@
 body {
     background-color: #000000;
-    
+}
+
+p {
+    font-family: "DM Sans", sans-serif;
+    color: white;
 }
