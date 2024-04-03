@@ -6,3 +6,9 @@ p {
     font-family: "DM Sans", sans-serif;
     color: white;
 }
+
+.topBar {
+    color: #ecbd39;
+    width: 100%;
+    height: 100px;
+}
