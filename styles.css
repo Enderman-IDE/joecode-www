@@ -16,3 +16,8 @@ p {
 .heading {
     font-size: 25px;
 }
+
+.headingCen {
+    font-size: 25px;
+    text-align: center;
+}
